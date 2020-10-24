@@ -15,3 +15,9 @@ The complete software frontend has been developed with Microsoft Visual Studio 2
 - Hybrid mobile apps done with Cordova, Nodejs, HTML and Javascript.
 - SVN used for the source code versioning and revision control 
 - DevOps done with VMWare.
+
+#Contact
+
+aleee_shaikh@yahoo.com
+
+00923433443057/00971562274677 (Whatsapp/direct call)
